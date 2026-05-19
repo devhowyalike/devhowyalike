@@ -1,4 +1,5 @@
 ### Yerp 👋  
+🪄 [The Entity](https://entity2501.com)  
 🚀 [Wip3out R3act](https://wipeout3.app)  
 🎤 [RapGPT](https://rapgpt.app)  
 📸 [Yameen](https://yameen.com)  
